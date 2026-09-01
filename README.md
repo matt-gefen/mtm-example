@@ -6,6 +6,8 @@ The goal of this overview is to demonstrate a quality of life and design overhau
 
 This is strictly a demo, the designs are not meant to be used in production nor are they representitive of any final product. The goal is to showcase a design idea and frontend refresh option done solo.
 
+The project is hosted at [https://mtm-example.netlify.app/](https://mtm-example.netlify.app/)
+
 ## Stack
 
 - React
