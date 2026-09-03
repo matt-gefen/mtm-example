@@ -3,7 +3,7 @@ import { TanStackRouterDevtoolsPanel } from '@tanstack/react-router-devtools'
 import { TanStackDevtools } from '@tanstack/react-devtools'
 
 import appCss from '../styles.css?url'
-import NavBar from '#/components/sections/navbar'
+import NavBar from '../components/sections/navbar'
 
 export const Route = createRootRoute({
   head: () => ({

@@ -12,6 +12,9 @@ function Home() {
         <NumberTicker value={25000000} className="text-4xl" />
         <p>People Celebrated</p>
       </div>
+      <div>
+        <p>Awards That Make It Meaningful</p>
+      </div>
     </div>
   )
 }
